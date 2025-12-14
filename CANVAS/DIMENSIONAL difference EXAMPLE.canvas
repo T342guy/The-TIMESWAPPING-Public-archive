@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"e7f06d74c0c307b5","type":"text","text":"ORIGIN DIMENSION","x":-380,"y":-1040,"width":2180,"height":880,"color":"1"},
+		{"id":"f86c607430a6dcbb","type":"text","text":"How the dimensional system works ","x":-680,"y":-1000,"width":250,"height":50},
+		{"id":"75634120390f943e","type":"text","text":"DIMENSIONAL STORM (outer)","x":-340,"y":-840,"width":980,"height":600,"color":"5"},
+		{"id":"16be1ace6adff0f2","type":"text","text":"TEMPLATE ZONE (part of the storm)","x":-320,"y":-760,"width":940,"height":500,"color":"3"},
+		{"id":"b445058eee24c1a2","type":"text","text":"person (alive)","x":-160,"y":-569,"width":151,"height":59},
+		{"id":"584058cf8a203e97","type":"text","text":"https://www.youtube.com/watch?v=Od49AfIS2-U&list=PLYy4v3A7fk-qywq-VMRw-HPqGJwP4F48p&index=5\n\nThis is a short film called \"Hyperlight\" where 2 of the same persons are in the same dimensional space. since the girl died, the 2nd one was able to be alive, but since the 2nd guy was still alive, their original was unable to be \"alive\" due to his soul already in one place. \n\nTthis is used so that technically everyone in the copy is alive, but their original is still alive as well. so the copies are not alive, yet they are.\n\nTHIS MAY HAVE TO BE RETCONNED!","x":-380,"y":-120,"width":580,"height":320},
+		{"id":"5cb3f38275d7ef93","type":"text","text":"Temporal transfer zone","x":1920,"y":-1040,"width":720,"height":880,"color":"2"},
+		{"id":"21699cf2b8810ca2","type":"text","text":"SECONDARY DIMENSION ","x":1960,"y":-980,"width":640,"height":780},
+		{"id":"d66decf6a151c367","type":"text","text":"SEPARATION LAYER FOR DIMENSION-IN-DIMENSION","x":703,"y":-980,"width":1017,"height":740,"color":"4"},
+		{"id":"a9da9f357a31fa48","type":"text","text":"Copy dimension (part of storm)","x":720,"y":-920,"width":980,"height":660,"color":"1"},
+		{"id":"44319b88224229b3","type":"text","text":"DIMENSIONAL STORM (inner)","x":740,"y":-840,"width":940,"height":560,"color":"5"},
+		{"id":"5d0cb867f67a278f","type":"text","text":"The [[FBR]]","x":2160,"y":-664,"width":205,"height":129},
+		{"id":"08e3faf5e4a737bf","type":"text","text":"Facility 20 / any space and matter","x":-200,"y":-615,"width":700,"height":260,"color":"6"},
+		{"id":"47385369073ecc88","type":"text","text":"COPY ZONE (part of the storm)","x":762,"y":-775,"width":900,"height":470,"color":"3"},
+		{"id":"d1db04836e074e48","type":"text","text":"COPIED Facility 20 / any space and matter","x":850,"y":-700,"width":720,"height":345,"color":"6"},
+		{"id":"5200cd577c78ed2d","type":"text","text":"The temporal transfer zone\n([[FBR]] location)","x":1073,"y":-586,"width":275,"height":117,"color":"1"},
+		{"id":"1d48e22f9f66b2d6","type":"text","text":"(all of this below is part of the origin, everything else in the COPY is in a copy dimension, within this dimension)","x":-340,"y":-920,"width":660,"height":60},
+		{"id":"316472635fd25bb4","type":"text","text":"***IMPORTANT! THIS CANVAS IS MEANT TO BE A VISUAL GUIDE BESIDE [[The Dimensional theory of the game]]!***","x":-359,"y":-1160,"width":679,"height":100},
+		{"id":"ac48261ec455e209","type":"text","text":"person (in suspension)","x":-179,"y":-540,"width":160,"height":50}
+	],
+	"edges":[]
+}

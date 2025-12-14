@@ -1,0 +1,1 @@
+I have no idea how i am going to fund this game, for anything! like music making, VA payment, and so fourth! 

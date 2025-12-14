@@ -1,0 +1,2 @@
+#ideas 
+A reference to controversy between countries not wanting to admit they don't want new developments. This can be a placement in the story to reference "not so smooth sailing". So that the story actually has some realism and not "no issues the entire time" type game 
