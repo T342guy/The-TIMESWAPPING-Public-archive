@@ -24,3 +24,16 @@ I would really love to see the work that you have created ontop of my work that 
 # licence
 
 <a href="https://github.com/T342guy/The-TIMESWAPPING-Public-archive">The TIMESWAPPING project public archive</a> © 2025 by <a href="https://github.com/T342guy">T342guy</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+# The big bits + notes
+If you wanted to see only the bit parts, here is a list! 
+
+If you noticed stray bits of [[]] around, those **were** obsidian backlinks. 
+
+- `CANVAS/DIMENSIONAL difference EXAMPLE.canvas` - This is an Obsidian canvas file.
+- `STORY ELEMENTS/The Advanced Augmented Hazardous Environment Suit.md`
+- `STORY ELEMENTS/The Dimensional theory of the game.md`
+- `STORY ELEMENTS/The free fall vertical lift system.md`
+- `STORY ELEMENTS/The fusion boiler reactor.md`
+- `STORY/entities/The Nova genesis foundation.md` - this is literally all of the backstory (or most, idk) of the main company behind the story.
+- `STORY/GMBK STORY DOC COPY.md` - before the Obsidian vault layout, all of my ideas were on a google doc. so some of the ideas may be in there that are not in note here. 
